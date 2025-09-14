@@ -1,0 +1,3672 @@
+{
+  "hasZ" : true,
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.407708599999978,
+          3.197907100000009,
+          1361.823000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.407741999999985,
+          3.1979759999999828,
+          1361.8331000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.407145000000014,
+          3.2015599999999722,
+          1376.9955000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.447264000000018,
+          3.1785770000000184,
+          1336.2670999999973
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.38315799999998,
+          3.123739999999998,
+          989.82779999999912
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.354217000000006,
+          3.1163450000000239,
+          885.83719999999448
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.379493000000025,
+          3.126308999999992,
+          1125.0108999999939
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.383177999999987,
+          3.1237629999999967,
+          1129.0976999999984
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.299848999999995,
+          3.1461800000000153,
+          756.00999999999476
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.32524699999999,
+          3.1635180000000105,
+          1057.008799999996
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.328927000000022,
+          3.1610840000000167,
+          1001.3699000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.356244100000026,
+          3.1358457000000044,
+          879.24460000000545
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.366388900000004,
+          3.1338443999999868,
+          939.56710000000021
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.560311000000013,
+          3.1613179999999943,
+          1350.9162999999971
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.568929000000026,
+          3.1182749999999828,
+          1260.5391999999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.567124999999976,
+          3.1143359999999802,
+          1244.9474999999948
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.578674999999976,
+          3.1167219999999816,
+          1249.2397000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.580799000000013,
+          3.1150890000000118,
+          1249.7621999999974
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.508014000000003,
+          3.1467809999999758,
+          1312.1006000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.50607100000002,
+          3.146556999999973,
+          1316.7939000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.506701000000021,
+          3.1565110000000232,
+          1336.6775999999954
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.510965999999996,
+          3.1660850000000096,
+          1346.502800000002
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.510766999999987,
+          3.1676860000000033,
+          1356.3840000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.503659000000027,
+          3.1968459999999936,
+          1417.5187000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.509878700000002,
+          3.1843589000000065,
+          1387.7783000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.521543500000007,
+          3.1713930000000232,
+          1370.2345999999961
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.505512599999975,
+          3.1844456000000037,
+          1406.2837
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.517521799999997,
+          3.1946867999999995,
+          1408.6870000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.515829800000006,
+          3.1938589000000093,
+          1403.3996999999945
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.535604999999975,
+          3.2402190000000246,
+          1290.6680000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.542920999999978,
+          3.2271279999999933,
+          1314.1346000000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.551509800000019,
+          3.1455250999999862,
+          1304.8654999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.544091999999978,
+          3.1719458000000031,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.531389600000011,
+          3.1992379999999798,
+          1426.7114000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.539008599999988,
+          3.2040251999999896,
+          1439.2084999999934
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.53875979999998,
+          3.2042496999999912,
+          1437.7666000000027
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.538482799999997,
+          3.2040698000000134,
+          1444.0151000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.538259400000015,
+          3.2032067000000097,
+          1436.8052000000025
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.496658000000025,
+          3.1021460000000047,
+          1226.0529999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.492454000000009,
+          3.1017200000000003,
+          1186.9106000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.480209000000002,
+          3.09523200000001,
+          1177.7853000000032
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.474003999999979,
+          3.0922289999999748,
+          1166.6444000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.42882400000002,
+          3.0955569999999852,
+          1070.7808999999979
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.428797999999972,
+          3.0958909999999946,
+          1071.284799999994
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.426963999999998,
+          3.0971030000000042,
+          1071.8352000000014
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.509013400000015,
+          3.1403189999999768,
+          1300.7798000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.508804800000007,
+          3.1313312999999994,
+          1276.5065999999933
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.503353899999979,
+          3.1155512000000272,
+          1232.7667999999976
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.507236799999987,
+          3.1222726999999963,
+          1252.2333999999973
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.507702999999992,
+          3.1119027999999958,
+          1230.6040000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.505495999999994,
+          3.1150349999999776,
+          1238.7753999999986
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.491349000000014,
+          2.9219770000000267,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.526703999999995,
+          2.8971310000000017,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.527173000000005,
+          2.8970469999999864,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.546257000000026,
+          2.882678999999996,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.541163999999981,
+          2.890152999999998,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.535421999999983,
+          2.9392240000000243,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.524143999999978,
+          2.9434509999999818,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.523824999999988,
+          2.9437669999999798,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.523457000000008,
+          2.944121999999993,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.523132999999973,
+          2.9447610000000282,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.523195999999984,
+          2.9538890000000038,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.523559999999975,
+          2.9539510000000178,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.547721000000024,
+          2.9894869999999969,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.541260000000023,
+          3.007581000000016,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.542460000000005,
+          3.0188449999999989,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.536885999999981,
+          3.0242220000000088,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.535715999999979,
+          3.0254590000000121,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.462877300000002,
+          3.0703972000000022,
+          1150.5749000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.458154700000023,
+          3.0050843000000214,
+          1487.5144
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.458540099999993,
+          3.0052053000000001,
+          1487.9949000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.537302000000011,
+          3.1018970000000081,
+          1250.4713000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.544329000000005,
+          3.1283329999999978,
+          1293.8589999999967
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.495856000000003,
+          3.0868449999999825,
+          1246.9351000000024
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.502500999999995,
+          3.0898770000000013,
+          1252.0669000000053
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.505262000000016,
+          3.0891129999999976,
+          1256.6576000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.494922999999972,
+          3.0907849999999826,
+          1210.9465000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.522796000000028,
+          3.1355469999999741,
+          1272.3052000000025
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.524952999999982,
+          3.0816009999999778,
+          1208.9125000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.52661999999998,
+          3.0797660000000064,
+          1210.6012999999948
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.526346999999987,
+          3.078801999999996,
+          1207.4569000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.539895999999999,
+          3.0594360000000052,
+          1217.8325000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.279484000000025,
+          3.1668220000000247,
+          934.86070000000473
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.288204000000007,
+          3.1609839999999849,
+          899.77730000000156
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.251014999999995,
+          3.1432950000000233,
+          906.72860000000219
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.193026999999972,
+          3.2251949999999852,
+          544.56720000000496
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.110793000000001,
+          3.0710500000000138,
+          509.4091000000044
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.110553999999979,
+          3.0710720000000151,
+          510.46349999999802
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.111934000000019,
+          3.0749799999999823,
+          542.38379999999597
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.136570000000006,
+          3.0569709999999759,
+          651.72079999999551
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.085785999999985,
+          3.0986859999999865,
+          174.78250000000116
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.084784000000013,
+          3.0978119999999763,
+          170.7329999999929
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.048523999999986,
+          3.1769170000000031,
+          82.837899999998626
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.064796000000001,
+          3.138370000000009,
+          137.21719999999914
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.065633999999989,
+          3.144898000000012,
+          147.62089999999444
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.064380000000028,
+          3.1476240000000075,
+          153.15399999999499
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.48257000000001,
+          3.1923189999999977,
+          1404.2970999999961
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.514153000000022,
+          3.2263849999999934,
+          1427.8478000000032
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.503492999999992,
+          3.2038549999999759,
+          1459.0681999999942
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.334032999999977,
+          3.0997049999999717,
+          822.6310999999987
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.345814000000018,
+          3.0767720000000054,
+          838.306700000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.348952999999995,
+          3.0745220000000018,
+          850.52060000000347
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.348293000000012,
+          3.0732580000000098,
+          842.09500000000116
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.329968000000008,
+          3.1029149999999959,
+          808.34579999999551
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.323541999999975,
+          3.103888999999981,
+          805.77989999999409
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.321773000000007,
+          3.1026309999999739,
+          806.86220000000321
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.400293999999974,
+          3.0919999999999845,
+          989.92110000000685
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.396515000000022,
+          3.0937539999999899,
+          981.64479999999458
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.368775000000028,
+          3.0909369999999967,
+          925.56729999999516
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.366702999999973,
+          3.0912440000000174,
+          920.49139999999898
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.416087000000005,
+          3.063871000000006,
+          1062.4952000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.280381999999975,
+          3.1081930000000284,
+          644.14429999999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.285486999999989,
+          3.1131579999999985,
+          657.12330000000657
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.268944999999974,
+          3.113098999999977,
+          645.14269999999669
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.23905400000001,
+          3.1157499999999914,
+          588.84130000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.18545499999999,
+          3.0755290000000173,
+          606.88679999999295
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.250194000000022,
+          3.0696050000000241,
+          1199.5911000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.285642999999993,
+          3.1131379999999922,
+          618.54090000000724
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.279105000000015,
+          3.1110180000000014,
+          614.0622000000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.252940000000024,
+          3.0688640000000191,
+          620.68700000000536
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.246696999999983,
+          3.0741620000000012,
+          610.58179999999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.245656999999994,
+          3.0746689999999717,
+          609.20089999999618
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.238833999999997,
+          3.0727089999999748,
+          600.35540000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "NAMOBJ" : "Jaringan Bergerak Seluler",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14022000,
+        "ORDE03" : 14022000,
+        "ORDE04" : 14022000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tower BTS",
+        "SBDATA" : "Survey Lapangan Tahun 2017"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.14819554689501,
+          3.155289409712509,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "NAMOBJ" : "Jaringan Bergerak Satelit",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14023000,
+        "ORDE03" : 14023000,
+        "ORDE04" : 14023000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Stasiun Bumi",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.464436801442503,
+          3.0871421662999978,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.507464245822518,
+          3.1565794070149877,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.540926130055027,
+          3.201940817107527,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.553406878922488,
+          3.0935611272150254,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.535399118032501,
+          3.0682941470649894,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.514339926732475,
+          2.9430117179700233,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.460264605964994,
+          3.143352196715,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.504465156347521,
+          3.2045890533775037,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.436271894000015,
+          3.1845850429525058,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.383392506197481,
+          3.1223937368924908,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.35415749649502,
+          3.1387062111325008,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.318400967622495,
+          3.1013574805199937,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.276730266870004,
+          3.1716017582650124,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.250108857137491,
+          3.0727370951124726,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.085063984874978,
+          3.0931527436375177,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.010188340674972,
+          3.2213221754374786,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.290487181540016,
+          3.019602004442504,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "NAMOBJ" : "Jaringan Bergerak Terestrial",
+        "ORDE01" : 14020000,
+        "ORDE02" : 14021000,
+        "ORDE03" : 14021000,
+        "ORDE04" : 14021000,
+        "JNSRSR" : 44000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    }
+  ]
+}

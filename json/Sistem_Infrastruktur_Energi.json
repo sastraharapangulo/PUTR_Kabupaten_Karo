@@ -1,0 +1,292 @@
+{
+  "hasZ" : true,
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.205510976880021,
+          3.2185090205300071,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Air (PLTA)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022201,
+        "ORDE04" : 13022201,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "PLTA WEP",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.433268564000002,
+          3.0936984379999899,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Mikro Hidro (PLTMH)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022205,
+        "ORDE04" : 13022205,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "PLTMH Kandibata",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.417765625000015,
+          3.0910671999999977,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Mikro Hidro (PLTMH)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022205,
+        "ORDE04" : 13022205,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "PLTMH Kinepen",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.203206208720019,
+          3.2238233359149717,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "NAMOBJ" : "Gardu Listrik",
+        "ORDE01" : 43020000,
+        "ORDE02" : 43021000,
+        "ORDE03" : 13021400,
+        "ORDE04" : 13021400,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.507195536999973,
+          3.1643771569999899,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "NAMOBJ" : "Gardu Listrik",
+        "ORDE01" : 43020000,
+        "ORDE02" : 43021000,
+        "ORDE03" : 13021400,
+        "ORDE04" : 13021400,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.53258768500001,
+          2.9389913790000151,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "NAMOBJ" : "Gardu Listrik",
+        "ORDE01" : 43020000,
+        "ORDE02" : 43021000,
+        "ORDE03" : 13021400,
+        "ORDE04" : 13021400,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.512902568012521,
+          3.2266133818450271,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Panas Bumi (PLTP)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022204,
+        "ORDE04" : 13022204,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "PLTP DOULU",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.250543573799973,
+          3.105009795180024,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Air (PLTA)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022201,
+        "ORDE04" : 13022201,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tiga Binanga",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.299974534567525,
+          3.1224182055249798,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Air (PLTA)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022201,
+        "ORDE04" : 13022201,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Munte",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.414106367565012,
+          3.1387128435050045,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Panas Bumi (PLTP)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022204,
+        "ORDE04" : 13022204,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Berastepu",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.390254324110003,
+          3.1011469163549918,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "NAMOBJ" : "Pembangkit Listrik Tenaga Mikro Hidro (PLTMH)",
+        "ORDE01" : 43020000,
+        "ORDE02" : 13022000,
+        "ORDE03" : 13022205,
+        "ORDE04" : 13022205,
+        "JNSRSR" : 43000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Kec. Munte",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    }
+  ]
+}

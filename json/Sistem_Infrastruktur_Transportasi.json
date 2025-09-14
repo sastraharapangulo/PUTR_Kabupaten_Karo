@@ -1,0 +1,370 @@
+{
+  "hasZ" : true,
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.49632512029001,
+          3.1052844852100066,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "NAMOBJ" : "Terminal Penumpang Tipe B",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016200,
+        "ORDE04" : 12016200,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Kabanjahe",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.509232270892483,
+          3.190223188229993,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "NAMOBJ" : "Terminal Penumpang Tipe C",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016300,
+        "ORDE04" : 12016300,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Berastagi",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.521401694380017,
+          2.9533745029099805,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "NAMOBJ" : "Terminal Penumpang Tipe C",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016300,
+        "ORDE04" : 12016300,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Merek",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.528002528999991,
+          2.8963424749999831,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "NAMOBJ" : "Pelabuhan Sungai dan Danau Pengumpan",
+        "ORDE01" : 42030000,
+        "ORDE02" : 12031000,
+        "ORDE03" : 12031600,
+        "ORDE04" : 12031600,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Merek",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.544512922000024,
+          2.9677081180000187,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "NAMOBJ" : "Stasiun Penumpang",
+        "ORDE01" : 42020000,
+        "ORDE02" : 12020000,
+        "ORDE03" : 12023000,
+        "ORDE04" : 12023000,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Merek",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.513376246999997,
+          3.1143190839999875,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "NAMOBJ" : "Stasiun Penumpang",
+        "ORDE01" : 42020000,
+        "ORDE02" : 12020000,
+        "ORDE03" : 12023000,
+        "ORDE04" : 12023000,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Kabanjahe",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.519812688999991,
+          3.2025953020000202,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "NAMOBJ" : "Stasiun Penumpang",
+        "ORDE01" : 42020000,
+        "ORDE02" : 12020000,
+        "ORDE03" : 12023000,
+        "ORDE04" : 12023000,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Berastagi",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.496686981357527,
+          3.1036404430874995,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "NAMOBJ" : "Terminal Penumpang Tipe C",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016300,
+        "ORDE04" : 12016300,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Kabanjahe",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.248343481999996,
+          3.0695558620000156,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "NAMOBJ" : "Terminal Penumpang Tipe C",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016300,
+        "ORDE04" : 12016300,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tiga Binanga",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.064924372999997,
+          3.1451143749999915,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "NAMOBJ" : "Terminal Penumpang Tipe C",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016300,
+        "ORDE04" : 12016300,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Lau Baleng",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.50908763914498,
+          2.9402081831174769,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "NAMOBJ" : "Terminal Barang",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12017000,
+        "ORDE03" : 12017000,
+        "ORDE04" : 12017000,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Merek",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.474622231000012,
+          3.094750103000024,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "NAMOBJ" : "Terminal Barang",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12017000,
+        "ORDE03" : 12017000,
+        "ORDE04" : 12017000,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Kabanjahe",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.508531037000012,
+          3.1484639569999899,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "NAMOBJ" : "Terminal Barang",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12017000,
+        "ORDE03" : 12017000,
+        "ORDE04" : 12017000,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Berastagi",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.569561969999995,
+          3.119083369000009,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "NAMOBJ" : "Terminal Penumpang Tipe C",
+        "ORDE01" : 42010000,
+        "ORDE02" : 12016000,
+        "ORDE03" : 12016300,
+        "ORDE04" : 12016300,
+        "JNSRSR" : 42000000,
+        "STSJRN" : 1,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Barusjahe",
+        "SBDATA" : "Dinas Perhubungan Kabupaten Karo Tahun 2020"
+      }
+    }
+  ]
+}

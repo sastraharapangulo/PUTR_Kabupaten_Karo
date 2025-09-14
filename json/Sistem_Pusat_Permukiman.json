@@ -1,0 +1,370 @@
+{
+  "hasZ" : true,
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.248017620999974,
+          3.0741248539999901,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "NAMOBJ" : "Pusat Kegiatan Lokal (PKL)",
+        "ORDE01" : 11014000,
+        "ORDE02" : 11014000,
+        "ORDE03" : 11014000,
+        "ORDE04" : 11014000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.487811670999974,
+          3.1000451570000109,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "NAMOBJ" : "Pusat Kegiatan Lokal (PKL)",
+        "ORDE01" : 11014000,
+        "ORDE02" : 11014000,
+        "ORDE03" : 11014000,
+        "ORDE04" : 11014000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.50894187900002,
+          3.1890586129999861,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "NAMOBJ" : "Pusat Kegiatan Lokal (PKL)",
+        "ORDE01" : 11014000,
+        "ORDE02" : 11014000,
+        "ORDE03" : 11014000,
+        "ORDE04" : 11014000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.528593639999997,
+          2.9404338130000269,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "NAMOBJ" : "Pusat Kegiatan Lokal (PKL)",
+        "ORDE01" : 11014000,
+        "ORDE02" : 11014000,
+        "ORDE03" : 11014000,
+        "ORDE04" : 11014000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.277452729000004,
+          3.171245813999974,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "NAMOBJ" : "Pusat Kegiatan Lokal (PKL)",
+        "ORDE01" : 11014000,
+        "ORDE02" : 11014000,
+        "ORDE03" : 11014000,
+        "ORDE04" : 11014000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.396450469000001,
+          3.0932787169999756,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "NAMOBJ" : "Pusat Pelayanan Kawasan",
+        "ORDE01" : 11021000,
+        "ORDE02" : 11021000,
+        "ORDE03" : 11021000,
+        "ORDE04" : 11021000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.525580450999996,
+          3.077054239000006,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "NAMOBJ" : "Pusat Pelayanan Kawasan",
+        "ORDE01" : 11021000,
+        "ORDE02" : 11021000,
+        "ORDE03" : 11021000,
+        "ORDE04" : 11021000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.358541455000022,
+          3.1357278610000208,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "NAMOBJ" : "Pusat Pelayanan Kawasan",
+        "ORDE01" : 11021000,
+        "ORDE02" : 11021000,
+        "ORDE03" : 11021000,
+        "ORDE04" : 11021000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.286811230000012,
+          3.0189766259999828,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "NAMOBJ" : "Pusat Pelayanan Lingkungan",
+        "ORDE01" : 11024000,
+        "ORDE02" : 11024000,
+        "ORDE03" : 11024000,
+        "ORDE04" : 11024000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.389971016999993,
+          3.1206837519999908,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "NAMOBJ" : "Pusat Pelayanan Lingkungan",
+        "ORDE01" : 11024000,
+        "ORDE02" : 11024000,
+        "ORDE03" : 11024000,
+        "ORDE04" : 11024000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.461560147,
+          3.1418261189999726,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "NAMOBJ" : "Pusat Pelayanan Kawasan",
+        "ORDE01" : 11021000,
+        "ORDE02" : 11021000,
+        "ORDE03" : 11021000,
+        "ORDE04" : 11021000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.43742099100001,
+          3.1855501430000004,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "NAMOBJ" : "Pusat Pelayanan Lingkungan",
+        "ORDE01" : 11024000,
+        "ORDE02" : 11024000,
+        "ORDE03" : 11024000,
+        "ORDE04" : 11024000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.08586274999999,
+          3.0971059589999754,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "NAMOBJ" : "Pusat Pelayanan Lingkungan",
+        "ORDE01" : 11024000,
+        "ORDE02" : 11024000,
+        "ORDE03" : 11024000,
+        "ORDE04" : 11024000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          98.009555814999999,
+          3.2286668340000233,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "NAMOBJ" : "Pusat Pelayanan Lingkungan",
+        "ORDE01" : 11024000,
+        "ORDE02" : 11024000,
+        "ORDE03" : 11024000,
+        "ORDE04" : 11024000,
+        "JNSRSR" : 11000000,
+        "STSJRN" : 2,
+        "WADMPR" : "Provinsi Sumatera Utara",
+        "WADMKK" : "Kabupaten Karo",
+        "REMARK" : "Tidak Ada",
+        "SBDATA" : "Dinas PUPR Kabupaten Karo Tahun 2020"
+      }
+    }
+  ]
+}
